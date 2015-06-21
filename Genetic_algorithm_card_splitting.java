@@ -7,7 +7,7 @@ import javax.naming.BinaryRefAddr;
 
 /**
  *
- * Evolucne Algoritmy - mala prezentacia
+ * Evolucne Algoritmy - mala prezentacia 1
  * 
  * Zadanie 3:
  * Majte 10 kariet očíslovaných od 1 do 10. Zvoľte si metódu, ako ich rozdeliť do dvoch
